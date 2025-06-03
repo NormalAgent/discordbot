@@ -1,0 +1,9 @@
+🧠 What this does:
+
+    Walks through your commands folder and any subfolders.
+
+    Loads .js command files.
+
+    Registers them in client.commands using their command name.
+
+    Makes them accessible for command handling later (like in interactionCreate).

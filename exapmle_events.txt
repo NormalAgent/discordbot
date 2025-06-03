@@ -1,0 +1,9 @@
+🧠 Summary:
+
+    🔍 Looks for .js event files in ./events/
+
+    ✅ Registers each one to the Discord client
+
+    ⚠️ Skips files that don’t export name and execute()
+
+    🧨 Supports both .once (e.g. ready) and regular .on events
