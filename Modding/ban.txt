@@ -1,0 +1,2 @@
+/ban user:@Troll reason:Spamming and being disrespectful
+→ ✅ Troll#0001 has been banned. Reason: Spamming and being disrespectful

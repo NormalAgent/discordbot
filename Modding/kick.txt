@@ -1,0 +1,2 @@
+/kick user:@TroubleMaker reason:Spamming links
+→ ✅ TroubleMaker has been kicked.

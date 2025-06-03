@@ -1,0 +1,2 @@
+/clean amount:25
+→ 🧹 Deleted 25 messages.
