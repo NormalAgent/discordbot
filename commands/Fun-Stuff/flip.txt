@@ -1,2 +1,0 @@
-/flip
-→ 🪙 The coin landed on **Heads**!

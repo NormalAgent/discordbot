@@ -1,2 +1,0 @@
-/hug target: @username
-→ SypherDev gives a big warm hug to @username! 🤗 [with an image]

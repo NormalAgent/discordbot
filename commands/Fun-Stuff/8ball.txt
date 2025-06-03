@@ -1,3 +1,0 @@
-/8ball question: Should I deploy on a Friday?
-🎱 Question: Should I deploy on a Friday?
-Answer: Very doubtful.

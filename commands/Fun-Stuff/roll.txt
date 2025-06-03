@@ -1,5 +1,0 @@
-/roll
-→ 🎲 You rolled a **3** on a 6-sided dice!
-
-/roll sides: 20
-→ 🎲 You rolled a **17** on a 20-sided dice!
