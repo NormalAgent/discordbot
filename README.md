@@ -7,7 +7,6 @@ A modular and easy-to-use Discord bot built with [discord.js](https://discord.js
 - **Fun Commands:** 8ball, memes, jokes, ASCII art, coin flip, roll dice, virtual hugs, and more.
 - **Moderation Tools:** Kick, ban, clean messages, and logging.
 - **Customizable:** Easily add or modify commands using a clean command handler.
-- **Multi-language support:** (Optional - remove if not used)
 - **Lightweight and efficient:** Minimal dependencies, designed to run smoothly.
 
 ## Getting Started
